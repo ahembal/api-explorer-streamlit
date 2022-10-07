@@ -1,0 +1,24 @@
+API,Description,Auth,HTTPS,CORS
+A Bíblia Digital,Do not worry about managing the multiple versions of the Bible,apiKey,Yes,No
+Bhagavad Gita,Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi,apiKey,Yes,Yes
+Bhagavad Gita,Bhagavad Gita text,OAuth,Yes,Yes
+Bhagavad Gita telugu,Bhagavad Gita API in telugu and odia languages,No,Yes,Yes
+Bible-api,Free Bible API with multiple languages,No,Yes,Yes
+British National Bibliography,Books,No,No,Unknown
+Crossref Metadata Search,Books & Articles Metadata,No,Yes,Unknown
+Ganjoor,"Classic Persian poetry works including access to related manuscripts, recitations and music tracks",OAuth,Yes,Yes
+Google Books,Books,OAuth,Yes,Unknown
+GurbaniNow,Fast and Accurate Gurbani RESTful API,No,Yes,Unknown
+Gutendex,Web-API for fetching data from Project Gutenberg Books Library,No,Yes,Unknown
+Open Library,"Books, book covers and related data",No,Yes,No
+Penguin Publishing,"Books, book covers and related data",No,Yes,Yes
+PoetryDB,Enables you to get instant data from our vast poetry collection,No,Yes,Yes
+Quran,RESTful Quran API with multiple languages,No,Yes,Yes
+Quran Cloud,"A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",No,Yes,Yes
+Quran-api,Free Quran API Service with 90+ different languages and 400+ translations,No,Yes,Yes
+Rig Veda,"Gods and poets, their categories, and the verse meters, with the mandal and sukta number",No,Yes,Unknown
+The Bible,Everything you need from the Bible in one discoverable place,apiKey,Yes,Unknown
+Thirukkural,1330 Thirukkural poems and explanation in Tamil and English,No,Yes,Yes
+Vedic Society,"Descriptions of all nouns (names, places, animals, things) from vedic literature",No,Yes,Unknown
+Wizard World,Get information from the Harry Potter universe,No,Yes,Yes
+Wolne Lektury,API for obtaining information about e-books available on the WolneLektury.pl website,No,Yes,Unknown
